@@ -91,4 +91,4 @@ ITEM_PIPELINES = {
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 #图片存储位置
-IMAGES_STORE = 'E:\spider\img\download'
+IMAGES_STORE = '/www/scrapy_learn'
